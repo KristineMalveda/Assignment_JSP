@@ -47,7 +47,7 @@
     out.print("<p>" + "1. When you reverse your first name it became - " + fname1 + "</p>");
 	
     //years to reach your next big -0 
-   		 int yourAgeNow = yourAge/10;
+   	 int yourAgeNow = yourAge/10;
          int yourAge1= (yourAgeNow*10) + 10;
          int yourAge2 = yourAge1 - yourAge;
     
