@@ -40,7 +40,7 @@
 		</p>
 
 		<p>	 
-			 <label for ="country">Country </label> 
+			 <label for ="count">Country </label> 
 			<select  name="country">
 			<option> --select country-- </option>
 				<option value="Afganistan">Afghanistan</option>
